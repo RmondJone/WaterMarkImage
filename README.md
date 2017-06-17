@@ -2,7 +2,7 @@
 图片水印工具，可以直接直接添加水印遮罩图片，也可直接添加水印文字并自定义水印文字位置<br>
 ## 效果展示
 
-![image](https://github.com/RmondJone/LockTableView/blob/master/show.gif)
+![image](https://github.com/RmondJone/WaterMarkImage/blob/master/GIF.gif)
 
 ## 更新日志
 * 2017年06月17日16:48:04----------WaterMarkImage V1.0.0
