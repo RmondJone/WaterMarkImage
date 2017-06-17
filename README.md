@@ -73,7 +73,7 @@ repositories {
     */
    private Bitmap mInitBitmap;
    /**
-    * 水印图片
+    * 水印遮罩图片
     */
    private Bitmap mWaterMarkBitmap;
    /**
