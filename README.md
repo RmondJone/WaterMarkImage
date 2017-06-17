@@ -1,5 +1,5 @@
 # WaterMarkImage
-图片水印工具，可以直接直接添加水印遮罩图片，也可直接添加水印文字并自定义水印文字位置<br>
+图片水印工具，可以直接直接添加水印遮罩图片，也可直接添加水印文字并自定义水印文字位置和旋转角度<br>
 ## 效果展示
 
 ![image](https://github.com/RmondJone/WaterMarkImage/blob/master/GIF.gif)
