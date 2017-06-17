@@ -49,7 +49,7 @@ repositories {
                    .setWaterMarkString(mEditText_Text.getText().toString())
                    //设置水印文字位置
                    .setWaterMarkTextLocation(mTextLocation)
-                   //设置水印文字选择角度
+                   //设置水印文字旋转角度
                    .setWaterMarkTextRotationAngle(Integer.parseInt
                            (mEditText_Angle.getText().toString()))
                    //设置水印文字颜色
